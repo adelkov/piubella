@@ -1,0 +1,10 @@
+
+
+##
+GET  https://piubella-79e1b.firebaseio.com/products.json?orderBy="code"&equalTo="PB45362" HTTP/1.1
+content-type: application/json
+
+
+###
+GET  https://piubella-79e1b.firebaseio.com/carts/-Lm0naAquyfoq6XOW1dR.json HTTP/1.1
+

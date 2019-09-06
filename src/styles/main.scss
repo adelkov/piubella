@@ -1,0 +1,10 @@
+@import "../components/common/Card/Card";
+@import "../components/common/Loader/Loader";
+@import "../components/views/Login/Login";
+
+html,
+main {
+  background-color: #77dac870;
+  background-size: cover;
+  min-height: 100vh;
+}
